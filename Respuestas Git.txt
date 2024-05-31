@@ -1,0 +1,29 @@
+==> ¿Qué es Git y para qué se utiliza?
+ 
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, 
+la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen 
+un gran número de archivos de código fuente.
+
+Se utilizan para la colaboración eficiente, esto permite que varios desarrolladores trabajen en el mismo proyecto de manera simultánea.
+Mantiene un historial completo de cambios:Cada copia de trabajo en Git es también un repositorio que almacena el historial completo de todos los cambios.
+Y por último tiene un rendimiento sólido está diseñado con un enfoque en el rendimiento.LAs operaciones como confirmar los cambios, ramificar, funsionar y comparar versiones anteriores.
+
+==> ¿Qué es GitHub y cuál es su relación con Git?
+
+GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. 
+Éste permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso. 
+
+GitHub es una plataforma que utiliza Git como su sistema de control de versiones subyacente.Pero GitHub proporciona una interfaz web y herramientas adicionales que facilitan la colaboración en proyectos Git, 
+como la gestión de problemas, solicitudes de extracción, seguimiento de problemas y más.
+
+==>  Explica brevemente los comandos git add, git commit, git push, git pull y git clone.
+
+git add: Agrega un cambio en el directorio del trabajo al área de preparación.
+git commit: Guarda todos los cambios hechos en el área de preparación junto con una breve descipción del usuario.
+git push: Se utiliza para comunicar con otros repositorio, calcula lo que la bases de datos local tiene que la remota no y 
+luego sube la diferencia al otro repositorio.
+git pull: Comunica con el otro repositorio, calcula lo que la bases de datos tiene que la remota no y luego sube la diferencia al otro repositorio.
+git clone: Clona Agrega el repositorio remoto a tu tarea de trabajo.
+
+
+
